@@ -40,5 +40,12 @@ Find more information about it [here](https://github.com/JanDeDobbeleer/oh-my-po
 
   In the last line, I'm referring to the oh-my-posh template that I want to use.  I've placed the file on my one-drive so that I can easily use it accross all workstations that I would have.
   The file is also present in this repository.
+
+## More information
+
+To setup Oh-My-Posh, I've based myself on the excellent blogposts of Scott Hanselmann regarding this topic:
+
+- [Pretty prompt in Windows Terminal](https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh)
+- [Predictive intellisense with PSReadline](https://www.hanselman.com/blog/adding-predictive-intellisense-to-my-windows-terminal-powershell-prompt-with-psreadline)
   
 
