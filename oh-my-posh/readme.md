@@ -8,11 +8,19 @@ Find more information about it [here](https://github.com/JanDeDobbeleer/oh-my-po
 
 - I prefer using [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 
+- Install the TerminalIcons Powershell module:
+
+  ```
+  Install-Module -Name Terminal-Icons -Repository PSGallery -Scope CurrentUser
+  ```
+
 - Install oh-my-posh
+
+  Oh-My-Posh is no longer a Powershell module, but a standalone executable.
+  Install it via winget using this command:
   
   ```
-  Install-Module posh-git -Scope CurrentUser
-  Install-Module oh-my-posh -Scope CurrentUser
+  winget install JanDeDobbeleer.OhMyPosh --source winget
   ```
 
 - Install the `PSReadline` extension
