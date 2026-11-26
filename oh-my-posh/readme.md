@@ -1,11 +1,13 @@
 # Introduction
 
-Oh-My-Posh is a tool for enriching your Powershell prompt.
+Oh-My-Posh is a tool for enriching your Powershell (pwsh) prompt.
 
 Find more information about it [here](https://github.com/JanDeDobbeleer/oh-my-posh).
 
 ## Setting it up
 
+- This only works in Powershell 7 (pwsh), not in the classic Powershell for Windows
+  
 - I prefer using [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 
 - Install the TerminalIcons Powershell module:
